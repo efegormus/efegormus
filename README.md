@@ -1,7 +1,7 @@
 # Hi, I'm Efe 👋
 
-🎓 Computer Science student at Sabancı University (GPA: 3.67/4.0)  
-🌍 Incoming Exchange Student @ TU Berlin (2026)  
+🎓 Computer Science student at Sabancı University   
+🌍 Exchange Student @ TU Berlin (2026)  
 💻 Passionate about building scalable systems & solving real-world problems  
 🚀 Interested in Software Engineering, AI, and Product Development  
 
@@ -10,13 +10,12 @@
 ## 🛠 Tech Stack
 
 **Languages:**  
-C++ | Python | Java | HTML  
+C++ | Python | HTML  
 
 **Core Areas:**  
 - Algorithms & Data Structures  
 - Machine Learning  
 - System Design Fundamentals  
-- Computer Architecture  
 - Data Science & Analytics  
 
 ---
