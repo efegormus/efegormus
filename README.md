@@ -2,7 +2,7 @@
 <p align="center">
 Computer Science Student @ Sabancı University <br>
 Exchange Student @ TU Berlin (2026) <br>
-Interested in Software Engineering • AI • Scalable Systems
+Interested in Software Engineering • AI 
 </p>
 
 ---
@@ -40,8 +40,7 @@ I focus on writing clean, structured, and efficient code — and improving it th
 
 Backend Engineering  
 AI-powered Applications  
-Performance Optimization  
-Scalable Infrastructure  
+Performance Optimization    
 
 ---
 
