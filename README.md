@@ -1,16 +1,59 @@
-## Hi there 👋
+# Hi, I'm Efe 👋
 
-<!--
-**efegormus/efegormus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Computer Science student at Sabancı University (GPA: 3.67/4.0)  
+🌍 Incoming Exchange Student @ TU Berlin (2026)  
+💻 Passionate about building scalable systems & solving real-world problems  
+🚀 Interested in Software Engineering, AI, and Product Development  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠 Tech Stack
+
+**Languages:**  
+C++ | Python | Java | HTML  
+
+**Core Areas:**  
+- Algorithms & Data Structures  
+- Machine Learning  
+- System Design Fundamentals  
+- Computer Architecture  
+- Data Science & Analytics  
+
+---
+
+## 🔬 Projects
+
+### 📊 Startup Success Prediction (Machine Learning Project)
+- Analyzed early-stage startup success factors using real-world datasets  
+- Built and validated a predictive ML model  
+- Designed structured data pipelines for preprocessing & evaluation  
+
+### 🤖 VEX Robotics – Team Captain
+- Led software architecture & system integration  
+- Coordinated hardware-software interaction  
+- Achieved Top National Rankings in Turkey for 3 consecutive years  
+
+---
+
+## 🌱 What I Care About
+
+I enjoy building systems that move from idea to working product.  
+I focus on writing clean, structured, and efficient code — and continuously improving it through iteration.
+
+I am especially interested in:
+- Backend Engineering  
+- AI-powered applications  
+- Performance optimization  
+- Scalable infrastructure  
+
+---
+
+## 📫 Connect With Me
+
+📧 efe.gormus@sabanciuniv.edu  
+🔗 [LinkedIn](https://linkedin.com/in/efegormus)  
+💻 [GitHub](https://github.com/efegormus)
+
+---
+
+_"Build. Ship. Improve. Repeat."_
