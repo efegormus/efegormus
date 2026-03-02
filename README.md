@@ -11,10 +11,6 @@
   <img src="https://img.shields.io/badge/Exchange%20%40%20TU%20Berlin%202026-1f2937?style=flat-square"/>
 </p>
 
----
-
-I build systems that go from idea → working product
-
 
 ---
 
