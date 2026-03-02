@@ -13,9 +13,8 @@
 
 ---
 
-```bash
-$ I build systems that go from idea → working product
-```
+I build systems that go from idea → working product
+
 
 ---
 
