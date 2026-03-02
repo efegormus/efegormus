@@ -56,16 +56,6 @@ Led software architecture and system integration for a competitive robotics team
 Coordinated hardware-software interaction across subsystems.  
 Achieved **Top National Rankings in Turkey for 3 consecutive years**.
 
-`C++` &nbsp; · &nbsp; `System Integration` &nbsp; · &nbsp; `Software Architecture`
-
----
-
-## 🎯 Interests
-
-- **Backend Engineering**
-- **AI-powered Applications**
-- **Performance Optimization**
-
 ---
 
 ## 📫 Connect
