@@ -1,58 +1,56 @@
-# Hi, I'm Efe 👋
+<h1 align="center">Hi, I'm Efe 👋</h1>
+<p align="center">
+Computer Science Student @ Sabancı University <br>
+Exchange Student @ TU Berlin (2026) <br>
+Interested in Software Engineering • AI • Scalable Systems
+</p>
 
-🎓 Computer Science student at Sabancı University   
-🌍 Exchange Student @ TU Berlin (2026)  
-💻 Passionate about building scalable systems & solving real-world problems  
-🚀 Interested in Software Engineering, AI, and Product Development  
+---
+
+## 👨‍💻 About Me
+
+I enjoy building systems that move from idea to working product.  
+I focus on writing clean, structured, and efficient code — and improving it through iteration.
 
 ---
 
 ## 🛠 Tech Stack
 
-**Languages:**  
-C++ | Python | HTML  
-
-**Core Areas:**  
-- Algorithms & Data Structures  
-- Machine Learning  
-- System Design Fundamentals  
-- Data Science & Analytics  
+<p>
+<strong>Languages:</strong> C++, Python, HTML <br>
+<strong>Core Areas:</strong> Algorithms & Data Structures • Machine Learning • System Design • Data Science
+</p>
 
 ---
 
-## 🔬 Projects
+## 🚀 Projects
 
-### 📊 Startup Success Prediction (Machine Learning Project)
-- Analyzed early-stage startup success factors using real-world datasets  
-- Built and validated a predictive ML model  
-- Designed structured data pipelines for preprocessing & evaluation  
+### Startup Success Prediction
+- Built and validated a machine learning model analyzing early-stage startup data  
+- Designed structured preprocessing and evaluation pipelines  
 
-### 🤖 VEX Robotics – Team Captain
-- Led software architecture & system integration  
+### VEX Robotics – Team Captain
+- Led software architecture and system integration  
 - Coordinated hardware-software interaction  
-- Achieved Top National Rankings in Turkey for 3 consecutive years  
+- Achieved Top National Rankings in Turkey (3 consecutive years)
 
 ---
 
-## 🌱 What I Care About
+## 🎯 Interests
 
-I enjoy building systems that move from idea to working product.  
-I focus on writing clean, structured, and efficient code — and continuously improving it through iteration.
-
-I am especially interested in:
-- Backend Engineering  
-- AI-powered applications  
-- Performance optimization  
-- Scalable infrastructure  
+Backend Engineering  
+AI-powered Applications  
+Performance Optimization  
+Scalable Infrastructure  
 
 ---
 
-## 📫 Connect With Me
+## 📫 Connect
 
-📧 efe.gormus@sabanciuniv.edu  
-🔗 [LinkedIn](https://linkedin.com/in/efegormus)  
-💻 [GitHub](https://github.com/efegormus)
+Email: efe.gormus@sabanciuniv.edu  
+LinkedIn: linkedin.com/in/efegormus  
+GitHub: github.com/efegormus  
 
 ---
 
-_"Build. Ship. Improve. Repeat."_
+<p align="center"><i>Build. Ship. Improve. Repeat.</i></p>
