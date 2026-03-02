@@ -2,7 +2,7 @@
 <p align="center">
 Computer Science Student @ Sabancı University <br>
 Exchange Student @ TU Berlin (2026) <br>
-Interested in Software Engineering • AI 
+
 </p>
 
 ---
