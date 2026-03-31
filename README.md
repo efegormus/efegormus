@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Efe Görmüş 👋</h1>
 
 <p align="center">
-  <a href="https://linkedin.com/in/efegormus"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/efe-g%C3%B6rm%C3%BC%C5%9F-35a073390/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="mailto:efe.gormus@sabanciuniv.edu"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
   <img src="https://img.shields.io/badge/Open%20to%20Opportunities-3fb950?style=for-the-badge"/>
 </p>
