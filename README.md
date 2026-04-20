@@ -28,7 +28,7 @@ I thrive at the intersection of algorithmic thinking and real-world engineering.
 
 ![C++](https://img.shields.io/badge/C++-f34b7d?style=flat-square&logo=c%2B%2B&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3572A5?style=flat-square&logo=python&logoColor=white)
-![HTML](https://img.shields.io/badge/HTML-e34c26?style=flat-square&logo=html5&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
 
 **Core Areas**
 
